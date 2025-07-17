@@ -25,3 +25,4 @@ insert into snapdeal_orders values (1,'2022-04-05 12:05:57','Froak',4000,'cash')
 
 insert into snapdeal_orders values (1,'2022-04-05 12:05:57','Froak',4000,'card',5); -- cash can not be mention here
 
+-- we will start from video - 2 (minute = 55)
